@@ -1,2 +1,2 @@
 # Python-Programming
- introduction to Pyton
+ introduction to Python
